@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "475746270948",
+    "project_id": "passbox-e80de",
+    "storage_bucket": "passbox-e80de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475746270948:android:81e10466a8f6132de9f6f1",
+        "android_client_info": {
+          "package_name": "com.example.passbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475746270948-3tohmqpeu0k2uau2cktp7me5tbn915kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb5LN-13I50o_ahObLP4HbGM-XpQC0Ldk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475746270948-3tohmqpeu0k2uau2cktp7me5tbn915kd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475746270948-c6ouhnik4j9upp26b5783bma1qmvsldp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.passbox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
